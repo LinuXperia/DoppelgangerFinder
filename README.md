@@ -3,9 +3,8 @@ A script to find your celebrity doppleganger!
 
 Examples:
 ![Example 1](examples/example1.png?raw=true)
-![Example 2](examples/example2.png?raw=true | width=100)
-![Example 3](examples/example3.png?raw=true | width=100)
-![Example 4](examples/example4.png?raw=true | width=100)
+![Example 2](examples/example2.png?raw=true)
+![Example 3](examples/example3.png?raw=true)
 
 ## To Run The Code:
 The first time you run the code, uncompress `train_dir.zip` and `clf.joblib.zip`.
